@@ -1,4 +1,6 @@
-## Web Technologies
+## Web Technologies 
+
+First lab session of the course: Web Technologies
 
 You can use the [editor on GitHub](https://github.com/18bce7094/18bce7094_first_try.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
